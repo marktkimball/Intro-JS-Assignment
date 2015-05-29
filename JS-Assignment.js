@@ -233,6 +233,7 @@ var totalScore = function(){
   var decreaseScore = function(score){
     score--;
   };
+  return score;
 };
 
 // -----------------------------------------------
